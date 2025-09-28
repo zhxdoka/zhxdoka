@@ -1,30 +1,60 @@
-# Hi there! 👋
+# 👋 Hi there, I'm Aida Zhalgassova Nurlanqyzy  
 
-I'm **Aida**, a passionate **Backend Developer** specializing in **Go (Golang)**. I focus on building efficient, scalable, and reliable systems, with a strong foundation in APIs, databases, and backend technologies. I love solving complex problems and working in both solo and team settings. Always eager to learn and grow! 🚀
+**`Software Engineer | Backend Golang Developer`**  
 
-## Skills 💻
+Motivated backend developer with strong experience in **Go, Python** and building **scalable, production-ready systems**.  
+Passionate about designing **microservices**, **low-latency APIs**, and **cloud-native architectures** with focus on performance, observability, and clean code.  
 
-### Programming Languages
-- **Go (Golang)** - Advanced experience in backend development.
-- **Java**, **Python**, **PHP**, **Node.js** - Intermediate, applied in various projects.
-- **C++** - Basic, used for learning and specific projects.
+---
 
-### Web Development 🌐
-- **HTML**, **CSS**, **JavaScript** - Frontend integration with backend services.
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aida-z-97a79a32a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhxdoka)  
+📧 **Email:** zhalgasovaida@gmail.com  
+📱 **Mobile:** +77020476745  
 
-### Database & Infrastructure 📊
-- **MongoDB**, **PostgreSQL**, **MySQL**, **SQLite** - Database design and optimization.
-- **Redis** - Basic caching and performance improvement.
-- **Prometheus**, **Grafana**, **Alertmanager** - Monitoring and system performance tracking.
+---
 
-### Tools & Technologies 🛠️
-- **Docker** - Containerization and app deployment.
-- **Git & GitHub** - Version control and collaboration.
-- **CI/CD** - GitHub Actions for integration and deployment.
-- **gRPC** & **REST APIs** - Building and integrating scalable APIs.
+## 🛠️ Tech Stack  
 
-## How to Reach Me 📬
+### 💻 Languages & Frameworks  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/aida-z-97a79a32a/) or email me at **zhalgasovaida@gmail.com**.
+### 🗄️ Databases & Messaging  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 
-Looking forward to collaborating! 🤝
+### ⚙️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhxdoka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhxdoka&layout=compact&theme=tokyonight&hide_border=true" />
+</p>  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **gRPC & microservices scaling**  
+- **Cloud-native monitoring** with Prometheus & Grafana  
+- **High-performance Go** (concurrency, networking, async pipelines)  
+
+---
+
+✨ _"Clean architecture, reliable systems, and well-monitored services make strong backend engineering."_ ✨  
