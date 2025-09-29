@@ -27,9 +27,9 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gif">
-  <source media="(prefers-color-scheme: light)" src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gif">
-  <img align="left" alt="GIF description" src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gif">
+  <source media="(prefers-color-scheme: dark)" src="https://i.pinimg.com/originals/b4/5f/0c/b45f0c3d8e91123b82c4d4463be50ad8.gif">
+  <source media="(prefers-color-scheme: light)" src="https://i.pinimg.com/originals/b4/5f/0c/b45f0c3d8e91123b82c4d4463be50ad8.gif">
+  <img align="left" alt="GIF description" src="https://i.pinimg.com/originals/b4/5f/0c/b45f0c3d8e91123b82c4d4463be50ad8.gif">
 </picture>
 
 
@@ -43,12 +43,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h2 align="center"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ  </h2>
 <div align="center">
   
@@ -69,6 +64,6 @@
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
