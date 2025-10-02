@@ -7,8 +7,6 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://i.pinimg.com/originals/db/6f/fe/db6ffea146df8c823828d05f9dee8bf6.gif" width="30"/> Hello, I am Aida! 
-*Backend Engineer | Golang Developer*
 <br /> 
 
 <!--Start Intro-->               
